@@ -70,7 +70,7 @@
         <h3 class="text-xl font-semibold mb-2">Cyrox — E-Commerce</h3>
         <p class="text-gray-400 text-sm mb-4">Django · Bootstrap · Razorpay · Render</p>
         <p class="text-gray-400 mb-4">Full-stack e-commerce with cart, checkout, Razorpay payments, and admin panel.</p>
-        <a href="https://ecommerce-aadk.onrender.com" target="_blank" class="text-blue-400 text-sm hover:underline">Live Demo →</a>
+        <a href="https://ecommerce-aadk.onrender.com" target="_blank" class="text-blue-400 text-sm hover:underline">Visit Site →</a>
       </div>
 
       <!-- FTProcess -->
